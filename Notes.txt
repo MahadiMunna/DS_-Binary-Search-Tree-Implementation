@@ -1,0 +1,8 @@
+BST->Binary search tree (Binary tree + Binary search)
+
+condition:
+1. node->left subtree < node->val
+2. node->right subtree > node->val
+3. No equal or duplicate value
+if tree is like this then BST can be apply.
+
